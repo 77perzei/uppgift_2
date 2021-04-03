@@ -89,14 +89,6 @@ html, body {
     font-size: 2.5em;
 }
 
-/* .about-band-image {
-    float: left;
-    height: 200px;
-    width: 200px;
-    margin: 15px;
-    border-radius: 50%;
-} */
-
 .main-footer {
     background-color: #56CCF2;
     color: white;
@@ -112,10 +104,6 @@ html, body {
     flex-grow: 1;
     text-align: end;
 }
-
-/* .footer-nav li {
-    padding: 0 .5em;
-} */
 
 .footer-nav img {
     width: 30px;
