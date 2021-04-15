@@ -4,14 +4,14 @@
 
 
 
-<h2>Vad ska levereras ?</h2>
+#>Vad ska levereras ?
 
 - [ ] Visa vilka böcker som finns.
 - [ ] Lägg till böcker i en kundkorg.
 - [ ] Ta bort böcker i en kundkorg.
-- [ ] Uppdattera böcker i en kundkorg.
+- [ ] Uppdatera böcker i en kundkorg.
 
-<h2>Funktioner som ska finnas</h2>
+#Funktioner som ska finnas
 
 - [ ] När användaren ändrar antalet böcker så ska summa uppdatteras med en gång.
 - [ ] De ska inte gå att skriva in felaktiga värden.
